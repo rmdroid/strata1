@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_source/
+
+Sitemap: https://strata-app.de/sitemap.xml

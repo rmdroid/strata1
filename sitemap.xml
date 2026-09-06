@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://strata-app.de/</loc>
+    <lastmod>2026-09-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://strata-app.de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://strata-app.de/index_en.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://strata-app.de/" />
+  </url>
+  <url>
+    <loc>https://strata-app.de/support.html</loc>
+    <lastmod>2026-09-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://strata-app.de/support.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://strata-app.de/support_eng.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://strata-app.de/support.html" />
+  </url>
+  <url>
+    <loc>https://strata-app.de/index_en.html</loc>
+    <lastmod>2026-09-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://strata-app.de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://strata-app.de/index_en.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://strata-app.de/" />
+  </url>
+  <url>
+    <loc>https://strata-app.de/support_eng.html</loc>
+    <lastmod>2026-09-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://strata-app.de/support.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://strata-app.de/support_eng.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://strata-app.de/support.html" />
+  </url>
+</urlset>

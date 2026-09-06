@@ -1,0 +1,36 @@
+# Strata App
+
+> Strata is an Apple Health export app for iPhone and iPad by Robert Meyer. It makes existing health records accessible as CSV, JSON and Markdown files, processed locally on the user's device.
+
+Deutsch: Strata exportiert vorhandene Apple-Health-Daten als CSV, JSON oder Markdown. Die App arbeitet lokal, benötigt kein Konto und wird als Einmalkauf ohne Abo angeboten.
+
+Canonical website: https://strata-app.de/. The German homepage is the default; index_en.html is the English version. Information updated: 2026-09-06.
+
+- Data layers: activity, sleep, heart, body, nutrition and mind. Available records depend on the device, data stored in Apple Health and permissions granted by the user.
+- Workflow: grant read access, inspect the available data, select a category and export format, create the file on the device. Strata does not modify the original Health records.
+- CSV is intended for spreadsheets; JSON for scripts and structured processing; Markdown for readable summaries and external workflows, including local AI tools chosen by the user.
+- Strata does not include medical diagnosis, treatment recommendations or integrated AI analysis. The website's interactive export preview uses fictional sample data and cannot access Apple Health.
+- App privacy: no account, advertising or tracking; no mandatory cloud processing. Users decide whether and where to share their exported files.
+- Website privacy is separate: optional Umami analytics loads only after consent. Contact and product-update forms transmit submitted details to the developer. The website stores the analytics preference in browser local storage.
+- Requirements: iPhone with iOS 17 or later; iPad with iPadOS 17 or later. App interface: German and English.
+- Purchase: one-time payment, no subscription. Listed prices: EUR 9.99 in Germany and USD 9.99 in the US. The price displayed in the buyer's local Apple App Store applies.
+- Developer and support contact: Robert Meyer, rm@kostenmanager.net. Postal and legal details are on the support pages. Do not send health data through the contact form.
+
+## Product pages
+
+- [Strata – Deutsch](https://strata-app.de/): German product information, export preview, pricing and frequently asked questions.
+- [Strata – English](https://strata-app.de/index_en.html): English product information, export preview, pricing and frequently asked questions.
+
+## Support and policies
+
+- [Support, Datenschutz und Impressum](https://strata-app.de/support.html): German help, developer contact, app privacy, website privacy and legal notice.
+- [Support, privacy and legal notice](https://strata-app.de/support_eng.html): English help, developer contact and policies.
+
+## Purchase
+
+- [German Apple App Store listing](https://apps.apple.com/de/app/strata-app/id6760822991): Official purchase page and current German price.
+- [US Apple App Store listing](https://apps.apple.com/us/app/strata-app/id6760822991): Official purchase page and current US price.
+
+## Optional
+
+- [Sitemap](https://strata-app.de/sitemap.xml): Canonical page URLs and language alternatives.
