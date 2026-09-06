@@ -1,0 +1,159 @@
+[
+  {
+    "language": "de",
+    "name": "01-datenschatz",
+    "source": "/Users/rm/Desktop/apps/strada/screens/onboarding1.png",
+    "output": "assets/de/01-datenschatz-clean.webp",
+    "method": "original app screenshot; external marketing overlay omitted",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1739,
+    "bytes": 41984
+  },
+  {
+    "language": "de",
+    "name": "02-freigabe",
+    "source": "/Users/rm/Desktop/apps/strada/screens/onborading2.png",
+    "output": "assets/de/02-freigabe-clean.webp",
+    "method": "original app screenshot; external marketing overlay omitted",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1739,
+    "bytes": 35294
+  },
+  {
+    "language": "de",
+    "name": "03-aktivierung",
+    "source": "/Users/rm/.codex/generated_images/01a07318-cf8b-7751-8cd5-53c832f169cc/exec-ec6232e2-092a-47d9-a1d1-2b366e029a5d.png",
+    "output": "assets/de/03-aktivierung-clean.webp",
+    "method": "imagegen edit",
+    "correctionPrompt": "Precise edit of this image only: REMOVE the entire bottom tab bar containing Health and Profil and its icons. This is a system permission sheet, not an app with profile tabs. Replace that tab bar area with plain white space. Keep the existing home indicator. Keep every other pixel, all German words, all switches, all buttons, colors, spacing, typography and status bar unchanged. Do not add anything. Flat screenshot, same size.",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1730,
+    "bytes": 50296
+  },
+  {
+    "language": "de",
+    "name": "04-uebersicht",
+    "source": "/Users/rm/Desktop/apps/strada/screens/onboarding4.png",
+    "output": "assets/de/04-uebersicht-clean.webp",
+    "method": "original app screenshot; external marketing overlay omitted",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1739,
+    "bytes": 51722
+  },
+  {
+    "language": "de",
+    "name": "05-export",
+    "source": "/Users/rm/.codex/generated_images/01a07318-cf8b-7751-8cd5-53c832f169cc/exec-3961cf9f-e682-4303-90f0-38e3cd9e1c13.png",
+    "output": "assets/de/05-export-clean.webp",
+    "method": "imagegen edit",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1730,
+    "bytes": 90310
+  },
+  {
+    "language": "de",
+    "name": "06-eigene-auswertung",
+    "source": "/Users/rm/.codex/generated_images/01a07318-cf8b-7751-8cd5-53c832f169cc/exec-bcd56cc0-1b22-45f7-8bc4-879dbcea1ff0.png",
+    "output": "assets/de/06-eigene-auswertung-clean.webp",
+    "method": "imagegen edit",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1737,
+    "bytes": 86426
+  },
+  {
+    "language": "de",
+    "name": "07-einstellungen",
+    "source": "/Users/rm/.codex/generated_images/01a07318-cf8b-7751-8cd5-53c832f169cc/exec-85efd387-0197-4cb7-aae3-65dddcba7dd2.png",
+    "output": "assets/de/07-einstellungen-clean.webp",
+    "method": "imagegen edit",
+    "correctionPrompt": "Precise text edit only. In the top header replace the large word \"Strata\" with the large word \"Einstellungen\", fitting it below the status bar without overlap. REMOVE the subtitle \"Lokaler Zugriff auf Ihre Apple-Health-Daten\" below this title and leave blank space there. This screen is the settings screen of Strata. Keep ALL remaining contents, words, icons, cards, switches, bottom tabs, values, typography, colors and layout exactly unchanged. Do not add or invent anything. Flat screenshot, same size.",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1734,
+    "bytes": 89470
+  },
+  {
+    "language": "en",
+    "name": "01-datenschatz",
+    "source": "/Users/rm/Desktop/apps/strada/screens/en/onboarding1.png",
+    "output": "assets/en/01-datenschatz-clean.webp",
+    "method": "original app screenshot; external marketing overlay omitted",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1739,
+    "bytes": 42456
+  },
+  {
+    "language": "en",
+    "name": "02-freigabe",
+    "source": "/Users/rm/.codex/generated_images/01a07318-cf8b-7751-8cd5-53c832f169cc/exec-8f68a4f9-be16-4319-88b7-e4831677c4a6.png",
+    "output": "assets/en/02-freigabe-clean.webp",
+    "method": "imagegen edit",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1600,
+    "bytes": 37348
+  },
+  {
+    "language": "en",
+    "name": "03-aktivierung",
+    "source": "/Users/rm/.codex/generated_images/01a07318-cf8b-7751-8cd5-53c832f169cc/exec-ab136521-23a7-4c2c-b03a-9a3b2455d784.png",
+    "output": "assets/en/03-aktivierung-clean.webp",
+    "method": "imagegen edit",
+    "correctionPrompt": "Precise edit of this image only: REMOVE the entire bottom tab bar containing Home, Trends, Profile and its icons. This is a system permission sheet, not an app with navigation tabs. Replace that tab bar area with plain white space. Keep the existing home indicator. Keep every other pixel, all English words, all switches, all buttons, colors, spacing, typography and status bar unchanged. Do not add anything. Flat screenshot, same size.",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1730,
+    "bytes": 43756
+  },
+  {
+    "language": "en",
+    "name": "04-uebersicht",
+    "source": "/Users/rm/Desktop/apps/strada/screens/en/onboarding4.png",
+    "output": "assets/en/04-uebersicht-clean.webp",
+    "method": "original app screenshot; external marketing overlay omitted",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1739,
+    "bytes": 45524
+  },
+  {
+    "language": "en",
+    "name": "05-export",
+    "source": "/Users/rm/Desktop/apps/strada/screens/ipad_en/menu.png",
+    "output": "assets/en/05-export-clean.webp",
+    "method": "original app screenshot; external marketing overlay omitted",
+    "device": "iPad",
+    "width": 1000,
+    "height": 1334,
+    "bytes": 41606
+  },
+  {
+    "language": "en",
+    "name": "06-eigene-auswertung",
+    "source": "/Users/rm/.codex/generated_images/01a07318-cf8b-7751-8cd5-53c832f169cc/exec-1b9f88e0-631a-4958-9fa9-9b2ad285e2ab.png",
+    "output": "assets/en/06-eigene-auswertung-clean.webp",
+    "method": "imagegen edit",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1687,
+    "bytes": 77126
+  },
+  {
+    "language": "en",
+    "name": "07-einstellungen",
+    "source": "/Users/rm/.codex/generated_images/01a07318-cf8b-7751-8cd5-53c832f169cc/exec-9a20ad7c-25f0-49f8-9aad-628d2267fc44.png",
+    "output": "assets/en/07-einstellungen-clean.webp",
+    "method": "imagegen edit",
+    "device": "iPhone",
+    "width": 800,
+    "height": 1730,
+    "bytes": 85820
+  }
+]
